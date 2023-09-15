@@ -1,3 +1,3 @@
-apiToken="5869831389:AAHjMLvyE52-svZqBAWQ7HiJ3N6UPA89FPE"
-chatID="2131440512"
+apiToken=""
+chatID=""
 
